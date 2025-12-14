@@ -1,0 +1,9 @@
+.base-node {
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  border: 1px solid #3d3d3d;
+  padding: 5px;
+  border-radius: 5px;
+  background: white;
+}
